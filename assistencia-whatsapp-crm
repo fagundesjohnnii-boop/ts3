@@ -1,0 +1,18 @@
+assistencia-crm/
+  backend/
+    src/
+      server.js
+      routes/
+        webhook.js
+        sendMessage.js
+      db/
+        index.js
+      services/
+        botLogic.js
+        conversationState.js
+    package.json
+    .env.example
+  frontend/
+    (Horizons vai gerar ou você coloca seu app web aqui)
+  README.md
+  .gitignore
